@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.10
+
+![GitHub metrics](https://metrics.lecoq.io/ArchieBeepBoop)  
